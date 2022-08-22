@@ -1,0 +1,35 @@
+@import "fonts/poppins.faces";
+
+html, body {
+    font-family: "Poppins Regular", sans-serif;
+
+    p {
+        font-family: "Poppins Light", sans-serif;
+        font-weight: 100;
+        font-size: 16px;
+    }
+
+    span {
+        font-family: "Poppins Light", sans-serif;
+        font-weight: 100;
+        font-size: 16px;
+    }
+
+    h1 {
+        font-family: "Poppins Bold", sans-serif;
+        font-size: 36px;
+    }
+
+    h2 {
+        font-family: "Poppins Bold", sans-serif;
+        font-weight: 500;
+        font-size: 28px;
+    }
+
+    h3 {
+        font-family: "Poppins Bold", sans-serif;
+        font-weight: 300;
+        font-size: 22px;
+    }
+
+}

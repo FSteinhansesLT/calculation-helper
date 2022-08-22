@@ -1,4 +1,4 @@
-import style from './header.module.css'
+import style from './header.module.scss'
 
 export function Header() {
     return <div className={style.header}>

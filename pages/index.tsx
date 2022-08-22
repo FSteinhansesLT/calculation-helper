@@ -1,3 +1,4 @@
+import React from "react";
 import {Header} from "../components/static/header/header";
 
 export default function Home() {
