@@ -1,0 +1,36 @@
+.card {
+  min-width: 280px;
+  padding: 40px;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+  background-color: white;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+
+
+  .card-header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+    h2 {
+      position: relative;
+
+      i {
+        position: absolute;
+      }
+    }
+
+    span {
+      color: #c3c3c3;
+    }
+  }
+
+  .card-content {
+
+  }
+}
+
+
